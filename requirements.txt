@@ -1,0 +1,4 @@
+# Add Python dependencies here (pin versions if you rely on exact behavior).
+# Example:
+# numpy>=1.26
+# torch>=2.2
